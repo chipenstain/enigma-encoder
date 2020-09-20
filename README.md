@@ -1,1 +1,1 @@
-# enigma-encoder
+# enigma-encryptor
